@@ -1,1 +1,8 @@
-{}
+{
+
+    "watchForFileChanges":true,
+    "defaultCommandTimeout": 6000
+
+
+
+}

@@ -5,5 +5,7 @@
 2. Install Cypress: npm install cypress
 3. Check Cypress version: npx cypress -v
 4. Open Crpress app: npx cypress open
-5.
-6.
+5. For auto completion from cypress library: /// <reference types ="cypress" />
+6. To stop auto execution: "watchForFileChanges": false
+7. To set default Timeout: "defaultCommandTimeout": 5000
+8.
