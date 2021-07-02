@@ -1,1 +1,9 @@
-test 123456
+
+::Terminal Codes::
+
+1. Initialize Package.json: npm init -y
+2. Install Cypress: npm install cypress
+3. Check Cypress version: npx cypress -v
+4. Open Crpress app: npx cypress open
+5.
+6.
